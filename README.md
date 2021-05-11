@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 👯 I'm looking for a backend developer position, or a full-stack position with a focus on backend, 
+👯 I'm looking for a backend developer position, or a full-stack position with a focus on backend, 
 I'm open to trying new technologies but I'm experienced in PHP. I would love to share my knowledge, 
 potentially in a technical role
 
