@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-👯 I'm looking for a backend developer position, or a full-stack position with a focus on backend, 
+👯 I'm looking for a Senior developer position, or a full-stack position with a focus on backend, 
 I'm open to trying new technologies but I'm experienced in PHP. I would love to share my knowledge, 
 potentially in a technical role!
 
-Why you should hire me? Because I'm not just a developer, I'm a wizard. I can turn cofee into code, deadlines into deliveries, problems into solutions and bugs into features.
+Why you should hire me? Because I'm not just a developer, I'm a wizard. I can turn coffee  into code, deadlines into deliveries, problems into solutions and bugs into features.
 
 <img src="https://i.pinimg.com/originals/e4/6c/b7/e46cb733dbbe6889fc26d100c1cc1861.gif" alt="Coder GIF" data-canonical-src="
 https://i.pinimg.com/originals/e4/6c/b7/e46cb733dbbe6889fc26d100c1cc1861.gif" style="width:500px">
