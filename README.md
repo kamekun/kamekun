@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-👯 I'm looking for a Senior developer position, or a full-stack position with a focus on backend, 
-I'm open to trying new technologies but I'm experienced in PHP. I would love to share my knowledge, 
+👯 I'm looking for a Senior developer position, or a full-stack position with main focus on backend side, 
+I'm open to trying new technologies but I'm experienced in PHP / Dart. I would love to share my knowledge, 
 potentially in a technical role!
 
 Why you should hire me? Because I'm not just a developer, I'm a wizard. I can turn coffee  into code, deadlines into deliveries, problems into solutions and bugs into features.
